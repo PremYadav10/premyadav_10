@@ -3,14 +3,14 @@
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer, problem solver, and lifelong learner from India. I love building modern web applications, exploring new technologies, and collaborating on impactful projects.
 
 ## 🚀 About Me
-- 🌱 Currently learning: Next.js, TypeScript, and AI integration
+- 🌱 Currently learning: Backend Technologies...
 - 💼 Working on: [Blog Spot](https://github.com/PremYadav10/Blog-Spot), [AI Smart Survey Tool](https://github.com/PremYadav10/AI-Smart-Survey-Tool)
 - 🏆 Hackathons & Open Source: Actively participate in coding contests and contribute to open source
 - 📝 Check out my [portfolio website](https://premkumaryadav.netlify.app/) for my projects, resume, and certifications
 
 ## 🛠️ Tech Stack
-- **Frontend:** React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Redux
-- **Backend:** Node.js, Express.js, MongoDB, REST APIs
+- **Frontend:** React.js, JavaScript, HTML5, CSS3, Tailwind CSS, Redux
+- **Backend:** Node.js, Express.js, MongoDB, REST APIs, MySQL
 - **Tools:** Git, GitHub, VS Code, Postman, Netlify
 
 ## 📈 My GitHub Stats
